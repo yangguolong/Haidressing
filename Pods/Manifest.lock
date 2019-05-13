@@ -1,0 +1,79 @@
+PODS:
+  - AFNetworking (3.0.4):
+    - AFNetworking/NSURLSession (= 3.0.4)
+    - AFNetworking/Reachability (= 3.0.4)
+    - AFNetworking/Security (= 3.0.4)
+    - AFNetworking/Serialization (= 3.0.4)
+    - AFNetworking/UIKit (= 3.0.4)
+  - AFNetworking/NSURLSession (3.0.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.4)
+  - AFNetworking/Security (3.0.4)
+  - AFNetworking/Serialization (3.0.4)
+  - AFNetworking/UIKit (3.0.4):
+    - AFNetworking/NSURLSession
+  - DZNEmptyDataSet (1.5.2)
+  - FDStackView (1.0)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - GPUImage (0.1.7)
+  - Masonry (0.6.4)
+  - MBProgressHUD (0.9.2)
+  - MJExtension (3.0.10)
+  - MJRefresh (3.1.0)
+  - Reachability (3.2)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - SSZipArchive (1.0.1)
+  - SVPullToRefresh (0.4.1)
+  - UITableView+FDTemplateLayoutCell (1.5.beta)
+  - UMengAnalytics-NO-IDFA (4.0.5)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0.4)
+  - DZNEmptyDataSet (~> 1.5.1)
+  - FDStackView (~> 1.0)
+  - FMDB (~> 2.6)
+  - GPUImage (~> 0.1.7)
+  - Masonry (~> 0.6.4)
+  - MBProgressHUD (~> 0.9.1)
+  - MJExtension (~> 3.0.10)
+  - MJRefresh (~> 3.1.0)
+  - Reachability (~> 3.2)
+  - ReactiveCocoa (= 2.5)
+  - SDWebImage (~> 3.7.4)
+  - SSZipArchive (~> 1.0.1)
+  - SVPullToRefresh (~> 0.4.1)
+  - UITableView+FDTemplateLayoutCell (~> 1.5.beta)
+  - UMengAnalytics-NO-IDFA
+
+SPEC CHECKSUMS:
+  AFNetworking: a0075feb321559dc78d9d85b55d11caa19eabb93
+  DZNEmptyDataSet: 741da409081a4bf707c949c964623a6ad1799772
+  FDStackView: 3a4bbe0ce9c35e974246a585168b9da8c32213f1
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SSZipArchive: 5f30a0af2cb3d48c0ff83b1e18029f7041ac3c38
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+  UITableView+FDTemplateLayoutCell: 02b508ab1cb4cea16a8c17ac83d2cd1fd72124f9
+  UMengAnalytics-NO-IDFA: 965a219b05475ff2a4c09a164139a27bbaa0e25b
+
+COCOAPODS: 0.39.0

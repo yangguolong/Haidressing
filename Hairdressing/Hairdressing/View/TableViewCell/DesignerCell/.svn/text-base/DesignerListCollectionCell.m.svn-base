@@ -1,0 +1,17 @@
+//
+//  DesignerListCollectionCell.m
+//  Hairdressing
+//
+//  Created by BoDong on 16/4/27.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import "DesignerListCollectionCell.h"
+
+@implementation DesignerListCollectionCell
+
+- (void)awakeFromNib {
+    // Initialization code
+}
+
+@end

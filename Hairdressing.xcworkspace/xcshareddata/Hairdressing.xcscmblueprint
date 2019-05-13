@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "89b6f9ba-a5cb-1f4b-aa48-a2a8e9f8ce34++9736",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "89b6f9ba-a5cb-1f4b-aa48-a2a8e9f8ce34++9736" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "89b6f9ba-a5cb-1f4b-aa48-a2a8e9f8ce34++9736" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A3E0650B-5602-4134-9FA0-545F8B94D220",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "89b6f9ba-a5cb-1f4b-aa48-a2a8e9f8ce34++9736" : "Hairdressing\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Hairdressing",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Hairdressing.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.241\/svn\/dev_hairdressing_iPhone",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89b6f9ba-a5cb-1f4b-aa48-a2a8e9f8ce34++9736"
+    }
+  ]
+}

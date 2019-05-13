@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "89b6f9ba-a5cb-1f4b-aa48-a2a8e9f8ce34++9736",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "89b6f9ba-a5cb-1f4b-aa48-a2a8e9f8ce34++9736" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "89b6f9ba-a5cb-1f4b-aa48-a2a8e9f8ce34++9736" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "25F52060-9380-43D4-BDBC-73EFD7106165",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "89b6f9ba-a5cb-1f4b-aa48-a2a8e9f8ce34++9736" : "Hairdressing\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MeiBaiTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Hairdressing\/Hairdressing\/MeiBaiTest\/MeiBaiTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.241\/svn\/dev_hairdressing_iPhone",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89b6f9ba-a5cb-1f4b-aa48-a2a8e9f8ce34++9736"
+    }
+  ]
+}

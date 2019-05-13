@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="YZMProductDetailsViewCtrl">
+            <connections>
+                <outlet property="priceLabel" destination="Te4-zA-gu5" id="mGv-00-ZLE"/>
+                <outlet property="tableView" destination="MBt-wq-x34" id="qVn-l2-SGb"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4hZ-37-Euo">
+                    <rect key="frame" x="353" y="526" width="247" height="74"/>
+                    <color key="backgroundColor" red="0.9137254901960784" green="0.19607843137254902" blue="0.38039215686274508" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                    <state key="normal" title="购买">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KFn-pq-p5i">
+                    <rect key="frame" x="0.0" y="526" width="353" height="74"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Te4-zA-gu5">
+                            <rect key="frame" x="90" y="26" width="79" height="21"/>
+                            <string key="text">&lt;body&gt;
+&lt;label&gt;服务流程&lt;/label&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;label&gt;1.首先洗头&lt;/label&gt;&lt;br /&gt;
+&lt;label&gt;2.吹发&lt;/label&gt;&lt;br /&gt;
+&lt;label&gt;3.洗剪吹&lt;/label&gt;&lt;br /&gt;
+&lt;label&gt;4.洗发&lt;/label&gt;&lt;br /&gt;
+&lt;label&gt;5.造型&lt;/label&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;/body&gt;</string>
+                            <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="￥70" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="113-E6-Lg7">
+                            <rect key="frame" x="177" y="26" width="42" height="21"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" red="0.23137254901960785" green="0.23529411764705882" blue="0.23921568627450981" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="74" id="nIG-Vu-sbA"/>
+                    </constraints>
+                </view>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="MBt-wq-x34">
+                    <rect key="frame" x="0.0" y="0.0" width="600" height="526"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="4hZ-37-Euo" secondAttribute="bottom" id="78O-RX-ZGZ"/>
+                <constraint firstItem="KFn-pq-p5i" firstAttribute="top" secondItem="MBt-wq-x34" secondAttribute="bottom" id="8P5-X5-E1b"/>
+                <constraint firstAttribute="bottom" secondItem="KFn-pq-p5i" secondAttribute="bottom" id="FxT-cv-MHH"/>
+                <constraint firstItem="4hZ-37-Euo" firstAttribute="height" secondItem="KFn-pq-p5i" secondAttribute="height" id="ITN-zR-r3Q"/>
+                <constraint firstItem="4hZ-37-Euo" firstAttribute="width" secondItem="KFn-pq-p5i" secondAttribute="width" multiplier="0.7" id="Ptz-vU-Jbp"/>
+                <constraint firstItem="KFn-pq-p5i" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="REi-cE-iqQ"/>
+                <constraint firstAttribute="trailing" secondItem="4hZ-37-Euo" secondAttribute="trailing" id="iPa-tb-TSk"/>
+                <constraint firstItem="MBt-wq-x34" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="lxT-Xh-PIl"/>
+                <constraint firstItem="MBt-wq-x34" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="nP5-vm-5zS"/>
+                <constraint firstAttribute="trailing" secondItem="MBt-wq-x34" secondAttribute="trailing" id="pST-mB-gqv"/>
+                <constraint firstItem="4hZ-37-Euo" firstAttribute="leading" secondItem="KFn-pq-p5i" secondAttribute="trailing" id="uA8-Zh-PY3"/>
+            </constraints>
+            <point key="canvasLocation" x="521" y="294"/>
+        </view>
+    </objects>
+</document>

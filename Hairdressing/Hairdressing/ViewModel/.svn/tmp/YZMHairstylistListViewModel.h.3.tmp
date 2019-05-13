@@ -1,0 +1,16 @@
+//
+//  YZMHairstylistListViewModel.h
+//  Hairdressing
+//
+//  Created by yzm on 16/4/12.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import "MRCTableViewModel.h"
+
+
+@interface YZMHairstylistListViewModel : MRCTableViewModel
+
+
+
+@end

@@ -1,0 +1,15 @@
+//
+//  StudioServiceImpl.h
+//  Hairdressing
+//
+//  Created by BoDong on 16/5/5.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import "StudioService.h"
+#import "BaseServiceImpl.h"
+#define CachePath [NSSearchPathForDirectoriesInDomains(NSCachesDirectory, NSUserDomainMask, YES) lastObject]
+@interface StudioServiceImpl : BaseServiceImpl<StudioService>
+
+@end

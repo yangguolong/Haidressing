@@ -1,0 +1,14 @@
+//
+//  SettingServiceImpl.h
+//  Hairdressing
+//
+//  Created by BoDong on 16/4/14.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import "SettingService.h"
+#import "BaseServiceImpl.h"
+@interface SettingServiceImpl : BaseServiceImpl <SettingService>
+
+@end

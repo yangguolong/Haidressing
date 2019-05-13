@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/TexGeneratorData
+END
+head_256.png
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/TexGeneratorData/head_256.png
+END
+Shader4FaceGradient.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/TexGeneratorData/Shader4FaceGradient.fsh
+END
+Shader4FaceGradient.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/TexGeneratorData/Shader4FaceGradient.vsh
+END
+Shader4FaceTexture.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/TexGeneratorData/Shader4FaceTexture.fsh
+END
+Shader4FaceTexture.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/TexGeneratorData/Shader4FaceTexture.vsh
+END
+mask_256.png
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/TexGeneratorData/mask_256.png
+END
+Shader4FaceImage.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/TexGeneratorData/Shader4FaceImage.fsh
+END
+Shader4FaceImage.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/TexGeneratorData/Shader4FaceImage.vsh
+END
+Shader4FaceDepth.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/TexGeneratorData/Shader4FaceDepth.fsh
+END
+Shader4FaceDepth.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/TexGeneratorData/Shader4FaceDepth.vsh
+END
+gradientTex_256.png
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/TexGeneratorData/gradientTex_256.png
+END

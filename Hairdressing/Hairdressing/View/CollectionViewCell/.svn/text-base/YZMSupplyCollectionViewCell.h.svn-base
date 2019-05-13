@@ -1,0 +1,16 @@
+//
+//  YZMSupplyCollectionViewCell.h
+//  Hairdressing
+//
+//  Created by cloudream on 16/5/27.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "YZMSupplyModel.h"
+
+@interface YZMSupplyCollectionViewCell : UICollectionViewCell
+
+-(void)updateWithSupplyModel:(YZMSupplyModel *)sModel;
+
+@end

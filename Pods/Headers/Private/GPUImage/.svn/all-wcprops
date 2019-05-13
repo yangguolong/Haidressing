@@ -1,0 +1,1001 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage
+END
+GLProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GLProgram.h
+END
+GPUImageHighPassFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageHighPassFilter.h
+END
+GPUImageRGBFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageRGBFilter.h
+END
+GPUImageAdaptiveThresholdFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageAdaptiveThresholdFilter.h
+END
+GPUImageToneCurveFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageToneCurveFilter.h
+END
+GPUImageExposureFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageExposureFilter.h
+END
+GPUImageHSBFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageHSBFilter.h
+END
+GPUImageBulgeDistortionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageBulgeDistortionFilter.h
+END
+GPUImagePerlinNoiseFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImagePerlinNoiseFilter.h
+END
+GPUImageLuminanceThresholdFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageLuminanceThresholdFilter.h
+END
+GPUImageSaturationFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSaturationFilter.h
+END
+GPUImage3x3TextureSamplingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImage3x3TextureSamplingFilter.h
+END
+GPUImageThresholdedNonMaximumSuppressionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageThresholdedNonMaximumSuppressionFilter.h
+END
+GPUImageMotionDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageMotionDetector.h
+END
+GPUImageHistogramFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageHistogramFilter.h
+END
+GPUImageThresholdSketchFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageThresholdSketchFilter.h
+END
+GPUImageSaturationBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSaturationBlendFilter.h
+END
+GPUImageRGBDilationFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageRGBDilationFilter.h
+END
+GPUImageAmatorkaFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageAmatorkaFilter.h
+END
+GPUImageOpeningFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageOpeningFilter.h
+END
+GPUImageKuwaharaFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageKuwaharaFilter.h
+END
+GPUImageAverageColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageAverageColor.h
+END
+GPUImageFASTCornerDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageFASTCornerDetectionFilter.h
+END
+GPUImageMonochromeFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageMonochromeFilter.h
+END
+GPUImageMovieWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageMovieWriter.h
+END
+GPUImageSoftLightBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSoftLightBlendFilter.h
+END
+GPUImageGrayscaleFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageGrayscaleFilter.h
+END
+GPUImageWeakPixelInclusionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageWeakPixelInclusionFilter.h
+END
+GPUImagePicture+TextureSubimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImagePicture+TextureSubimage.h
+END
+GPUImageFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageFilter.h
+END
+GPUImageGammaFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageGammaFilter.h
+END
+GPUImagePrewittEdgeDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImagePrewittEdgeDetectionFilter.h
+END
+GPUImageVignetteFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageVignetteFilter.h
+END
+GPUImageLuminanceRangeFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageLuminanceRangeFilter.h
+END
+GPUImageSubtractBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSubtractBlendFilter.h
+END
+GPUImageFilterGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageFilterGroup.h
+END
+GPUImageMedianFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageMedianFilter.h
+END
+GPUImageSoftEleganceFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSoftEleganceFilter.h
+END
+GPUImageSharpenFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSharpenFilter.h
+END
+GPUImageSwirlFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSwirlFilter.h
+END
+GPUImageSourceOverBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSourceOverBlendFilter.h
+END
+GPUImageDilationFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageDilationFilter.h
+END
+GPUImageColorMatrixFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageColorMatrixFilter.h
+END
+GPUImageCGAColorspaceFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageCGAColorspaceFilter.h
+END
+GPUImageLinearBurnBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageLinearBurnBlendFilter.h
+END
+GPUImageVoronoiConsumerFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageVoronoiConsumerFilter.h
+END
+GPUImageNobleCornerDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageNobleCornerDetectionFilter.h
+END
+GPUImageParallelCoordinateLineTransformFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageParallelCoordinateLineTransformFilter.h
+END
+GPUImageBrightnessFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageBrightnessFilter.h
+END
+GPUImageBoxBlurFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageBoxBlurFilter.h
+END
+GPUImageContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageContext.h
+END
+GPUImageExclusionBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageExclusionBlendFilter.h
+END
+GPUImagePinchDistortionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImagePinchDistortionFilter.h
+END
+GPUImageChromaKeyBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageChromaKeyBlendFilter.h
+END
+GPUImageEmbossFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageEmbossFilter.h
+END
+GPUImageSobelEdgeDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSobelEdgeDetectionFilter.h
+END
+GPUImageStillCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageStillCamera.h
+END
+GPUImageRawDataOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageRawDataOutput.h
+END
+GPUImageHistogramGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageHistogramGenerator.h
+END
+GPUImageGaussianBlurFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageGaussianBlurFilter.h
+END
+GPUImageCrosshatchFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageCrosshatchFilter.h
+END
+GPUImageSmoothToonFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSmoothToonFilter.h
+END
+GPUImageRGBErosionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageRGBErosionFilter.h
+END
+GPUImageToonFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageToonFilter.h
+END
+GPUImageSketchFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSketchFilter.h
+END
+GPUImageUIElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageUIElement.h
+END
+GPUImageXYDerivativeFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageXYDerivativeFilter.h
+END
+GPUImagePosterizeFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImagePosterizeFilter.h
+END
+GPUImageFramework.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageFramework.h
+END
+GPUImageThreeInputFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageThreeInputFilter.h
+END
+GPUImageFalseColorFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageFalseColorFilter.h
+END
+GPUImageStretchDistortionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageStretchDistortionFilter.h
+END
+GPUImageContrastFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageContrastFilter.h
+END
+GPUImageKuwaharaRadius3Filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageKuwaharaRadius3Filter.h
+END
+GPUImageClosingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageClosingFilter.h
+END
+GPUImagePoissonBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImagePoissonBlendFilter.h
+END
+GPUImageLightenBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageLightenBlendFilter.h
+END
+GPUImageHoughTransformLineDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageHoughTransformLineDetector.h
+END
+GPUImageSphereRefractionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSphereRefractionFilter.h
+END
+GPUImageVideoCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageVideoCamera.h
+END
+GPUImageTextureInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageTextureInput.h
+END
+GPUImageTiltShiftFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageTiltShiftFilter.h
+END
+GPUImageShiTomasiFeatureDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageShiTomasiFeatureDetectionFilter.h
+END
+GPUImagePixellatePositionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImagePixellatePositionFilter.h
+END
+GPUImageHueFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageHueFilter.h
+END
+GPUImageAverageLuminanceThresholdFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageAverageLuminanceThresholdFilter.h
+END
+GPUImageScreenBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageScreenBlendFilter.h
+END
+GPUImageOverlayBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageOverlayBlendFilter.h
+END
+GPUImageHueBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageHueBlendFilter.h
+END
+GPUImageLowPassFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageLowPassFilter.h
+END
+GPUImageMotionBlurFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageMotionBlurFilter.h
+END
+GPUImageRGBOpeningFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageRGBOpeningFilter.h
+END
+GPUImageRawDataInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageRawDataInput.h
+END
+GPUImageNormalBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageNormalBlendFilter.h
+END
+GPUImageBilateralFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageBilateralFilter.h
+END
+GPUImageDifferenceBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageDifferenceBlendFilter.h
+END
+GPUImageTwoPassFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageTwoPassFilter.h
+END
+GPUImageHalftoneFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageHalftoneFilter.h
+END
+GPUImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageView.h
+END
+GPUImageFilterPipeline.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageFilterPipeline.h
+END
+GPUImageLuminosity.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageLuminosity.h
+END
+GPUImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImage.h
+END
+GPUImageDivideBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageDivideBlendFilter.h
+END
+GPUImageZoomBlurFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageZoomBlurFilter.h
+END
+GPUImageHardLightBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageHardLightBlendFilter.h
+END
+GPUImageJFAVoronoiFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageJFAVoronoiFilter.h
+END
+GPUImage3x3ConvolutionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImage3x3ConvolutionFilter.h
+END
+GPUImageHighlightShadowFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageHighlightShadowFilter.h
+END
+GPUImageThresholdEdgeDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageThresholdEdgeDetectionFilter.h
+END
+GPUImageGlassSphereFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageGlassSphereFilter.h
+END
+GPUImageChromaKeyFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageChromaKeyFilter.h
+END
+GPUImageColorBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageColorBlendFilter.h
+END
+GPUImageColorDodgeBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageColorDodgeBlendFilter.h
+END
+GPUImageHazeFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageHazeFilter.h
+END
+GPUImageLineGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageLineGenerator.h
+END
+GPUImageOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageOutput.h
+END
+GPUImageMaskFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageMaskFilter.h
+END
+GPUImageUnsharpMaskFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageUnsharpMaskFilter.h
+END
+GPUImageCannyEdgeDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageCannyEdgeDetectionFilter.h
+END
+GPUImageCrosshairGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageCrosshairGenerator.h
+END
+GPUImageHarrisCornerDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageHarrisCornerDetectionFilter.h
+END
+GPUImageGaussianSelectiveBlurFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageGaussianSelectiveBlurFilter.h
+END
+GPUImageCropFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageCropFilter.h
+END
+GPUImagePicture.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImagePicture.h
+END
+GPUImageOpacityFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageOpacityFilter.h
+END
+GPUImageDarkenBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageDarkenBlendFilter.h
+END
+GPUImageMovie.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageMovie.h
+END
+GPUImageSolidColorGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSolidColorGenerator.h
+END
+GPUImageColorPackingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageColorPackingFilter.h
+END
+GPUImageTransformFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageTransformFilter.h
+END
+GPUImagePolkaDotFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImagePolkaDotFilter.h
+END
+GPUImageDirectionalNonMaximumSuppressionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageDirectionalNonMaximumSuppressionFilter.h
+END
+GPUImageLuminosityBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageLuminosityBlendFilter.h
+END
+GPUImageMissEtikateFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageMissEtikateFilter.h
+END
+GPUImageSingleComponentGaussianBlurFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSingleComponentGaussianBlurFilter.h
+END
+GPUImageMultiplyBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageMultiplyBlendFilter.h
+END
+GPUImagePolarPixellateFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImagePolarPixellateFilter.h
+END
+GPUImageWhiteBalanceFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageWhiteBalanceFilter.h
+END
+GPUImageLevelsFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageLevelsFilter.h
+END
+GPUImageLanczosResamplingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageLanczosResamplingFilter.h
+END
+GPUImageMovieComposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageMovieComposition.h
+END
+GPUImageDissolveBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageDissolveBlendFilter.h
+END
+GPUImageFramebufferCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageFramebufferCache.h
+END
+GPUImageBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageBuffer.h
+END
+GPUImageColorInvertFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageColorInvertFilter.h
+END
+GPUImageDirectionalSobelEdgeDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageDirectionalSobelEdgeDetectionFilter.h
+END
+GPUImageLookupFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageLookupFilter.h
+END
+GPUImageColorBurnBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageColorBurnBlendFilter.h
+END
+GPUImageMosaicFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageMosaicFilter.h
+END
+GPUImageTextureOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageTextureOutput.h
+END
+GPUImageTwoPassTextureSamplingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageTwoPassTextureSamplingFilter.h
+END
+GPUImageErosionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageErosionFilter.h
+END
+GPUImageFramebuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageFramebuffer.h
+END
+GPUImageTwoInputCrossTextureSamplingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageTwoInputCrossTextureSamplingFilter.h
+END
+GPUImageiOSBlurFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageiOSBlurFilter.h
+END
+GPUImageHistogramEqualizationFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageHistogramEqualizationFilter.h
+END
+GPUImageLaplacianFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageLaplacianFilter.h
+END
+GPUImageGaussianBlurPositionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageGaussianBlurPositionFilter.h
+END
+GPUImagePixellateFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImagePixellateFilter.h
+END
+GPUImageRGBClosingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageRGBClosingFilter.h
+END
+GPUImageTwoInputFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageTwoInputFilter.h
+END
+GPUImageAlphaBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageAlphaBlendFilter.h
+END
+GPUImageLocalBinaryPatternFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageLocalBinaryPatternFilter.h
+END
+GPUImageAddBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageAddBlendFilter.h
+END
+GPUImageSepiaFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageSepiaFilter.h
+END
+GPUImageNonMaximumSuppressionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Private/GPUImage/GPUImageNonMaximumSuppressionFilter.h
+END

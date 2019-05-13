@@ -1,0 +1,124 @@
+//
+//  HairDressingPrefixHeader.pch
+//  Hairdressing
+//
+//  Created by Guolong Yang on 16/3/24.
+//  Copyright © 2016年 Yangjiaolong. All rights reserved.
+//
+
+#ifndef HairDressingPrefixHeader_pch
+#define HairDressingPrefixHeader_pch
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import "Utility.h"
+#import "JKDBModel.h"
+#import "MRCViewModel.h"
+#import "MRCViewController.h"
+#import <SDWebImage/UIButton+WebCache.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import "UIViewExt.h"
+#import "TGRImageViewController.h"
+#import "TGRImageZoomAnimationController.h"
+#import "VPImageCropperViewController.h"
+#import "LEActionSheet.h"
+#import "NSString+Extension.h"
+#import "UIView+MJExtension.h"
+
+#import "MRCTableViewModel.h"
+#import "User.h"
+#import "MRCViewModelServices.h"
+#import "MRCTableViewController.h"
+#import "UIViewController+Extension.h"
+#import <AFNetworking/AFNetworking.h>
+//#import "AppMacro.h"
+#import <MJExtension/MJExtension.h>
+#import "NSString+Category.h"
+#import "BitmapUtils.h"
+#import "TWMessageBarManager.h"
+#import <ReactiveCocoa/RACEXTScope.h>
+#import <ReactiveCocoa/ReactiveCocoa.h>
+//#import "UserService.h"
+#endif
+
+//#######################   HairEngine OPENCV   ############################
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __cplusplus
+#import <opencv2/opencv.hpp>
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#endif
+//#endif /* PrefixHeader_pch */
+//#######################   HairEngine  OPENCV  ############################
+
+
+
+//状态栏+导航栏 高度
+#define STATUS_HEIGHT [[UIApplication sharedApplication] statusBarFrame].size.height
+#define NAV_HEIGHT  self.navigationController.navigationBar.height
+#define TOP_BAR_HEIGHT (STATUS_HEIGHT + NAV_HEIGHT)
+#ifdef DEBUG
+#define DLog(fmt, ...) NSLog((@"%s [Line %d] " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__)
+#else
+#define DLog(fmt, ...) nil
+#endif
+
+
+#define ScreenBounds        [UIScreen mainScreen].bounds//设备尺寸
+#define kWidth              [UIScreen mainScreen].bounds.size.width //获取设备的物理宽度
+#define kHeight             [UIScreen mainScreen].bounds.size.height //获取设备的物理高度
+
+
+//状态栏+导航栏 高度
+#define STATUS_HEIGHT [[UIApplication sharedApplication] statusBarFrame].size.height
+#define NAV_HEIGHT  self.navigationController.navigationBar.height
+#define TOP_BAR_HEIGHT (STATUS_HEIGHT + NAV_HEIGHT)
+#define isPad (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+
+
+/****************************** 颜色 ********************************/
+#define RGBColor(r,g,b,a)       ([UIColor colorWithRed:r/255.0 green:g/255.0 blue:b/255.0 alpha:a])
+#define TABLEVIEW_BORDER_COLOR  RGBColor(230, 230, 230, 1)
+#define APP_BACKGROUND_COLOR  RGBColor(230.0, 233.0, 235.0, 1.0)
+#define TABLEVIEW_ROW_HEIGHT    50
+
+/****************************** 设备信息 ********************************/
+
+#define DEVICE_IS_IPHONE4         CGSizeEqualToSize(CGSizeMake(640,960), [[[UIScreen mainScreen] currentMode] size])//是否4
+#define DEVICE_IS_IPHONE5         CGSizeEqualToSize(CGSizeMake(640,1136), [[[UIScreen mainScreen] currentMode] size])//是否5
+#define DEVICE_IS_IPHONE6         CGSizeEqualToSize(CGSizeMake(750,1334), [[[UIScreen mainScreen] currentMode] size])//是否6
+#define DEVICE_IS_IPHONE6P        CGSizeEqualToSize(CGSizeMake(1242,2208), [[[UIScreen mainScreen] currentMode] size])//是否6P
+
+#define IOS9_Device            （[[[UIDevice currentDevice] systemVersion] floatValue] >= 9.0）
+#define iOS9_OR_LATER SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(@"9.0")
+
+/** target名称全局定义*/
+#define kTargetName [[[NSBundle mainBundle] infoDictionary] objectForKey:@"CFBundleDisplayName"]
+//通知
+#define UserUpdateHeadImageNotification @"UserUpdateHeadImageNotification"
+#define UserInfoChangeNotification @"UserInfoChangeNotification"
+
+#define USER_ACCOUT @"USER_ACCOUT"
+#define USER_PASSWORD @"USER_PASSWORD"
+#define ISLOGIN  @"isLogined"
+#define USER_TOKEN @"User_Token"
+
+
+#define ONLINEHOST @"http://192.168.1.46/appapi/"//普通功能测试接口
+
+//#define ONLINEHOST @"http://test.Yangjiaolong.net/appapi/"//调试支付宝接口
+
+
+#endif /* HairDressingPrefixHeader_pch */
+
+
+
+
+
+
+

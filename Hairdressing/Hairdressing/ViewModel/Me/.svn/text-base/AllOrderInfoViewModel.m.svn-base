@@ -1,0 +1,15 @@
+//
+//  AllOrderInfoViewModel.m
+//  Hairdressing
+//
+//  Created by BoDong on 16/5/26.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import "AllOrderInfoViewModel.h"
+@interface AllOrderInfoViewModel()
+
+@end
+@implementation AllOrderInfoViewModel
+
+@end

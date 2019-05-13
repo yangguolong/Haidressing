@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers
+END
+TencentApiInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentApiInterface.h
+END
+QQApiInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/QQApiInterface.h
+END
+TencentMessageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentMessageObject.h
+END
+WeiBoAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/WeiBoAPI.h
+END
+sdkdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/sdkdef.h
+END
+TencentOAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentOAuth.h
+END
+QQApiInterfaceObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/QQApiInterfaceObject.h
+END
+TencentOAuthObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentOAuthObject.h
+END

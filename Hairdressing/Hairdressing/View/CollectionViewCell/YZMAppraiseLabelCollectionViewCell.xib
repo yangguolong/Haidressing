@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="YZMAppraiseLabelCollectionViewCell" id="r4o-Yw-xXy" customClass="YZMAppraiseLabelCollectionViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="80" height="30"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="80" height="30"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <button opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="C5v-eA-qwM">
+                        <rect key="frame" x="0.0" y="0.0" width="80" height="30"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <state key="normal" title="超耐心">
+                            <color key="titleColor" red="0.6588235294117647" green="0.6588235294117647" blue="0.6588235294117647" alpha="1" colorSpace="calibratedRGB"/>
+                        </state>
+                        <state key="selected">
+                            <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        </state>
+                    </button>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            </view>
+            <constraints>
+                <constraint firstItem="C5v-eA-qwM" firstAttribute="top" secondItem="r4o-Yw-xXy" secondAttribute="top" id="E3a-oZ-NTl"/>
+                <constraint firstAttribute="bottom" secondItem="C5v-eA-qwM" secondAttribute="bottom" id="XtB-bM-74D"/>
+                <constraint firstItem="C5v-eA-qwM" firstAttribute="leading" secondItem="r4o-Yw-xXy" secondAttribute="leading" id="fgC-dw-JFS"/>
+                <constraint firstAttribute="trailing" secondItem="C5v-eA-qwM" secondAttribute="trailing" id="ltY-hB-Cwb"/>
+            </constraints>
+            <size key="customSize" width="80" height="30"/>
+            <connections>
+                <outlet property="button" destination="C5v-eA-qwM" id="gBQ-RC-Ihx"/>
+            </connections>
+            <point key="canvasLocation" x="229" y="320"/>
+        </collectionViewCell>
+    </objects>
+</document>

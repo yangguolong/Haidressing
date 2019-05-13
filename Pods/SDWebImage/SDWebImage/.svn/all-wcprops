@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dev_hairdressing_iPhone/!svn/ver/148/trunk/Hairdressing/Pods/SDWebImage/SDWebImage
+END
+NSData+ImageContentType.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dev_hairdressing_iPhone/!svn/ver/147/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m
+END
+UIView+WebCacheOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.m
+END
+SDWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dev_hairdressing_iPhone/!svn/ver/147/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDImageCache.h
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dev_hairdressing_iPhone/!svn/ver/147/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDImageCache.m
+END
+SDWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dev_hairdressing_iPhone/!svn/ver/147/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.m
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dev_hairdressing_iPhone/!svn/ver/147/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+END
+UIButton+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDWebImageManager.m
+END
+SDWebImageDownloaderOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h
+END
+UIImageView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dev_hairdressing_iPhone/!svn/ver/147/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+END
+UIImageView+HighlightedWebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h
+END
+SDWebImageCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+END
+UIButton+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dev_hairdressing_iPhone/!svn/ver/148/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/UIButton+WebCache.m
+END
+SDWebImageDownloaderOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m
+END
+UIImageView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dev_hairdressing_iPhone/!svn/ver/147/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m
+END
+UIImageView+HighlightedWebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.m
+END
+SDWebImagePrefetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h
+END
+UIImage+MultiFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h
+END
+SDWebImageCompat.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dev_hairdressing_iPhone/!svn/ver/147/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m
+END
+UIImage+GIF.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/UIImage+GIF.h
+END
+UIImage+MultiFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.m
+END
+SDWebImagePrefetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.m
+END
+NSData+ImageContentType.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dev_hairdressing_iPhone/!svn/ver/147/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+END
+UIImage+GIF.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dev_hairdressing_iPhone/!svn/ver/147/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/UIImage+GIF.m
+END
+UIView+WebCacheOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h
+END
+SDWebImageOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+END

@@ -1,0 +1,47 @@
+//
+//  YZMHairstyModel.h
+//  Hairdressing
+//
+//  Created by yzm on 5/10/16.
+//  Copyright © 2016 Cloudream. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+
+@interface YZMHairstyModel : NSObject
+
+@property (nonatomic ,copy) NSString *hairstylist_id;       // 发型师序号
+@property (nonatomic ,copy) NSString *corp_id;              // 门店id
+@property (nonatomic ,copy) NSString *hairstylist_name;     // 发型师名称
+@property (nonatomic ,copy) NSString *photo_url;            // 发型师头像
+@property (nonatomic ,copy) NSString *district_name;        // 区、县的名称
+@property (nonatomic ,copy) NSString *commercial_area;            // 发型师所在街道
+@property (nonatomic ,copy) NSString *corporation;          // 门店名称
+@property (nonatomic ,copy) NSString *distance;             // 距离，距用户当前位置的距离。如果查询条件中经度纬度值为空，则此字段为0
+@property (nonatomic ,copy) NSString *sign;                 // 发型师个性签名
+@property (nonatomic ,strong) NSMutableArray *hairsty_label;              // 发型师标签
+@property (nonatomic ,strong) NSArray *portfolio;           // 发型师作品集
+
+
+
+@end
+/*
+ {
+ "commercial_area" = "\U9633\U5149\U540d\U82d1";
+ "corp_id" = 25;
+ corporation = "\U4f0a\U8303\U5c14\U79c1\U4eba\U5f62\U8c61\U5b9a\U5236";
+ distance = "1.3km";
+ "district_name" = "\U798f\U7530\U533a";
+ "hairsty_label" =             (
+ "\U70eb\U67d3",
+ "\U7070\U5ea6",
+ ""
+ );
+ "hairstylist_id" = 80;
+ "hairstylist_name" = "Wang Fei";
+ "photo_url" = "http://192.168.1.46:8000/2016-05-11/i3/Wzn8mt!j6kgwLAZ1a7Oeri3N.png";
+ portfolio =             (
+ );
+ sign = "\U4e16\U754c\U5728\U4f60\U811a\U4e0b";
+ 
+ */

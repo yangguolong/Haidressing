@@ -1,0 +1,18 @@
+//
+//  VPImageCropperViewModel.h
+//  Hairdressing
+//
+//  Created by BoDong on 16/5/24.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+
+@interface VPImageCropperViewModel : MRCViewModel
+//(UIImage *)originalImage cropFrame:(CGRect)cropFrame limitScaleRatio:(NSInteger)limitRatio
+
+@property(nonatomic,strong,readwrite)UIImage *originalImage;
+@property(nonatomic,assign,readwrite)CGRect cropFrame;
+@property(nonatomic,assign,readwrite)NSInteger limitRatio;
+
+@end

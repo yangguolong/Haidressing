@@ -1,0 +1,13 @@
+//
+//  YZMAppraiseLabelModel.m
+//  Hairdressing
+//
+//  Created by cloudream on 16/6/1.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import "YZMAppraiseLabelModel.h"
+
+@implementation YZMAppraiseLabelModel
+
+@end

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/dev_hairdressing_iPhone/!svn/ver/229/trunk/Hairdressing/Pods/UMengAnalytics-NO-IDFA/umsdk_IOS_analyics_no-idfa_v4.0.5/UMMobClick.framework/Versions/A/Headers
+END
+MobClick.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/dev_hairdressing_iPhone/!svn/ver/229/trunk/Hairdressing/Pods/UMengAnalytics-NO-IDFA/umsdk_IOS_analyics_no-idfa_v4.0.5/UMMobClick.framework/Versions/A/Headers/MobClick.h
+END
+MobClickGameAnalytics.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/dev_hairdressing_iPhone/!svn/ver/229/trunk/Hairdressing/Pods/UMengAnalytics-NO-IDFA/umsdk_IOS_analyics_no-idfa_v4.0.5/UMMobClick.framework/Versions/A/Headers/MobClickGameAnalytics.h
+END
+MobClickSocialAnalytics.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/dev_hairdressing_iPhone/!svn/ver/229/trunk/Hairdressing/Pods/UMengAnalytics-NO-IDFA/umsdk_IOS_analyics_no-idfa_v4.0.5/UMMobClick.framework/Versions/A/Headers/MobClickSocialAnalytics.h
+END

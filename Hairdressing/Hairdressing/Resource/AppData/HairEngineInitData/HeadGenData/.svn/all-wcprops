@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/HeadGenData
+END
+auxiliaryData.txt
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/HeadGenData/auxiliaryData.txt
+END
+foreheadVertexIndex.txt
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/HeadGenData/foreheadVertexIndex.txt
+END
+faceTexAndTopo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/HeadGenData/faceTexAndTopo.txt
+END
+featureLocation.txt
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/HeadGenData/featureLocation.txt
+END
+trainResult.dat
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/HeadGenData/trainResult.dat
+END

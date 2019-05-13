@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="YZMTryCollectionViewCell" id="cxq-VK-3uI" customClass="YZMTryCollectionViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="179" height="222"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="179" height="222"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="H7x-EL-AZ4">
+                        <rect key="frame" x="0.0" y="0.0" width="179" height="222"/>
+                    </imageView>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            </view>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="H7x-EL-AZ4" secondAttribute="trailing" id="2sn-6p-FLm"/>
+                <constraint firstItem="H7x-EL-AZ4" firstAttribute="leading" secondItem="cxq-VK-3uI" secondAttribute="leading" id="S8a-P9-nMN"/>
+                <constraint firstAttribute="bottom" secondItem="H7x-EL-AZ4" secondAttribute="bottom" id="X2d-ue-S7g"/>
+                <constraint firstItem="H7x-EL-AZ4" firstAttribute="top" secondItem="cxq-VK-3uI" secondAttribute="top" id="XdI-V7-ga6"/>
+            </constraints>
+            <size key="customSize" width="179" height="222"/>
+            <point key="canvasLocation" x="558.5" y="395"/>
+        </collectionViewCell>
+    </objects>
+</document>

@@ -1,0 +1,13 @@
+//
+//  YZMCorpsModel.m
+//  Hairdressing
+//
+//  Created by cloudream on 16/5/27.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import "YZMCorpsModel.h"
+
+@implementation YZMCorpsModel
+
+@end

@@ -1,0 +1,17 @@
+//
+//  FeedBackViewController.h
+//  Hairdressing
+//
+//  Created by BoDong on 16/4/29.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "UIPlaceHolderTextView.h"
+@interface FeedBackViewController : MRCViewController
+
+@property (weak, nonatomic) IBOutlet UIPlaceHolderTextView *feedbackTextView;
+@property (weak, nonatomic) IBOutlet UITextField *contactTextField;
+@property (weak, nonatomic) IBOutlet UIButton *submitButton;
+
+@end

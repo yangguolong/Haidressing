@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dev_hairdressing_iPhone/!svn/ver/152/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/BaseClass
+END
+MRCCollectionViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dev_hairdressing_iPhone/!svn/ver/7/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/BaseClass/MRCCollectionViewModel.h
+END
+MRCTableViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/dev_hairdressing_iPhone/!svn/ver/147/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/BaseClass/MRCTableViewModel.m
+END
+MRCSegmentedControlViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/dev_hairdressing_iPhone/!svn/ver/70/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/BaseClass/MRCSegmentedControlViewModel.h
+END
+MRCViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/33/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/BaseClass/MRCViewModel.h
+END
+MRCCollectionViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dev_hairdressing_iPhone/!svn/ver/7/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/BaseClass/MRCCollectionViewModel.m
+END
+MRCSegmentedControlViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/dev_hairdressing_iPhone/!svn/ver/70/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/BaseClass/MRCSegmentedControlViewModel.m
+END
+MRCViewModelServices.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dev_hairdressing_iPhone/!svn/ver/152/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/BaseClass/MRCViewModelServices.h
+END
+MRCViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/7/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/BaseClass/MRCViewModel.m
+END
+MRCNavigationProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/dev_hairdressing_iPhone/!svn/ver/7/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/BaseClass/MRCNavigationProtocol.h
+END
+MRCViewModelServicesImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dev_hairdressing_iPhone/!svn/ver/7/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/BaseClass/MRCViewModelServicesImpl.h
+END
+MRCTableViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dev_hairdressing_iPhone/!svn/ver/7/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/BaseClass/MRCTableViewModel.h
+END
+MRCViewModelServicesImpl.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dev_hairdressing_iPhone/!svn/ver/152/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/BaseClass/MRCViewModelServicesImpl.m
+END

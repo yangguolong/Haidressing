@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/GPUImage/framework/Source/iOS
+END
+GPUImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/GPUImage/framework/Source/iOS/GPUImageView.h
+END
+GPUImagePicture.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/GPUImage/framework/Source/iOS/GPUImagePicture.h
+END
+GPUImageMovieWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/GPUImage/framework/Source/iOS/GPUImageMovieWriter.h
+END
+GPUImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/GPUImage/framework/Source/iOS/GPUImageView.m
+END
+GPUImagePicture.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/GPUImage/framework/Source/iOS/GPUImagePicture.m
+END
+GPUImageMovieWriter.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/GPUImage/framework/Source/iOS/GPUImageMovieWriter.m
+END
+GPUImageContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/GPUImage/framework/Source/iOS/GPUImageContext.h
+END
+GPUImagePicture+TextureSubimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/GPUImage/framework/Source/iOS/GPUImagePicture+TextureSubimage.h
+END
+GPUImageContext.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/GPUImage/framework/Source/iOS/GPUImageContext.m
+END
+GPUImagePicture+TextureSubimage.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/GPUImage/framework/Source/iOS/GPUImagePicture+TextureSubimage.m
+END

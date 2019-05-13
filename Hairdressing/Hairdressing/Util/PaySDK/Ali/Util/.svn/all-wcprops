@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util
+END
+base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/base64.m
+END
+MD5DataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/MD5DataSigner.m
+END
+RSADataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/RSADataSigner.m
+END
+DataVerifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/DataVerifier.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/config.h
+END
+NSDataEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/NSDataEx.h
+END
+DataVerifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/DataVerifier.m
+END
+RSADataVerifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/RSADataVerifier.h
+END
+NSDataEx.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/NSDataEx.m
+END
+RSADataVerifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/RSADataVerifier.m
+END
+DataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/DataSigner.h
+END
+openssl_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/openssl_wrapper.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/base64.h
+END
+DataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/DataSigner.m
+END
+MD5DataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/MD5DataSigner.h
+END
+RSADataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/RSADataSigner.h
+END
+openssl_wrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dev_hairdressing_iPhone/!svn/ver/145/trunk/Hairdressing/Hairdressing/Hairdressing/Util/PaySDK/Ali/Util/openssl_wrapper.m
+END

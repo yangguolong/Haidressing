@@ -1,0 +1,13 @@
+//
+//  AliPayDemoViewController.h
+//  Hairdressing
+//
+//  Created by BoDong on 16/5/10.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AliPayDemoViewController : MRCViewController
+
+@end

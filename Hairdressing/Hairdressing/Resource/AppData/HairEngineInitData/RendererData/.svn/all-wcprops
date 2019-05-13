@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData
+END
+Shader4Surface.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/Shader4Surface.fsh
+END
+Shader4BG.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/Shader4BG.fsh
+END
+Shader4Quad.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/Shader4Quad.fsh
+END
+modifiers.dat
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/modifiers.dat
+END
+expressions.dat
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/expressions.dat
+END
+Shader4Head.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/Shader4Head.fsh
+END
+HeadMoveScript.txt
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/HeadMoveScript.txt
+END
+Shader4Hair.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/Shader4Hair.vsh
+END
+Shader4Depth.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/Shader4Depth.fsh
+END
+Shader4Surface.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/Shader4Surface.vsh
+END
+Shader4BG.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/Shader4BG.vsh
+END
+Shader4Quad.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/Shader4Quad.vsh
+END
+Shader4Head.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/Shader4Head.vsh
+END
+Shader4Hair.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/Shader4Hair.fsh
+END
+Shader4Depth.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/dev_hairdressing_iPhone/!svn/ver/53/trunk/Hairdressing/Hairdressing/Hairdressing/Resource/AppData/HairEngineInitData/RendererData/Shader4Depth.vsh
+END

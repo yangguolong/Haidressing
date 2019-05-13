@@ -1,0 +1,16 @@
+//
+//  YZMPSViewModel.h
+//  Hairdressing
+//
+//  Created by cloudream on 16/4/12.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import "MRCViewModel.h"
+
+@interface YZMPSViewModel : MRCViewModel
+@property (nonatomic,strong)UIImage * captureImage;
+
+@property (nonatomic,strong) RACCommand * nextStepCommamd;
+
+@end

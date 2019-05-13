@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Public/FDStackView
+END
+FDStackView.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Public/FDStackView/FDStackView.h
+END
+FDStackViewExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Public/FDStackView/FDStackViewExtensions.h
+END
+FDStackViewAlignmentLayoutArrangement.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Public/FDStackView/FDStackViewAlignmentLayoutArrangement.h
+END
+FDStackViewDistributionLayoutArrangement.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Public/FDStackView/FDStackViewDistributionLayoutArrangement.h
+END
+FDStackViewLayoutArrangement.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Public/FDStackView/FDStackViewLayoutArrangement.h
+END
+FDGapLayoutGuide.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Public/FDStackView/FDGapLayoutGuide.h
+END
+FDTransformLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Public/FDStackView/FDTransformLayer.h
+END
+FDLayoutSpacer.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dev_hairdressing_iPhone/!svn/ver/5/trunk/Hairdressing/Pods/Headers/Public/FDStackView/FDLayoutSpacer.h
+END

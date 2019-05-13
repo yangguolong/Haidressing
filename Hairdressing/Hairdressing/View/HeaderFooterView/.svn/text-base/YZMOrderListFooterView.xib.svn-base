@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15A2301" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="VC0-zq-CFz" customClass="YZMOrderListFooterView">
+            <rect key="frame" x="0.0" y="0.0" width="429" height="50"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="iND-No-W6n">
+                    <rect key="frame" x="0.0" y="0.0" width="429" height="50"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <button opaque="NO" tag="88" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wK0-1V-6JN">
+                    <rect key="frame" x="261" y="7" width="70" height="30"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <state key="normal" title="申请退款">
+                        <color key="titleColor" red="0.13333333333333333" green="0.13333333333333333" blue="0.13725490196078433" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="titleShadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <button opaque="NO" tag="88" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hxf-o1-8Il">
+                    <rect key="frame" x="343" y="7" width="70" height="30"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="70" id="FtH-ah-cEW"/>
+                        <constraint firstAttribute="height" constant="30" id="LDz-uW-gBJ"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <state key="normal" title="验证订单">
+                        <color key="titleColor" red="0.1333333333" green="0.1333333333" blue="0.13725490200000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ipc-KN-dLw">
+                    <rect key="frame" x="16" y="22" width="0.0" height="0.0"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="iND-No-W6n" firstAttribute="top" secondItem="VC0-zq-CFz" secondAttribute="top" id="3fW-dj-chx"/>
+                <constraint firstItem="ipc-KN-dLw" firstAttribute="centerY" secondItem="wK0-1V-6JN" secondAttribute="centerY" id="6og-m9-3Hb"/>
+                <constraint firstItem="wK0-1V-6JN" firstAttribute="width" secondItem="hxf-o1-8Il" secondAttribute="width" id="9sY-vs-GvJ"/>
+                <constraint firstItem="ipc-KN-dLw" firstAttribute="leading" secondItem="VC0-zq-CFz" secondAttribute="leading" constant="16" id="JG6-Qb-ruU"/>
+                <constraint firstAttribute="trailing" secondItem="hxf-o1-8Il" secondAttribute="trailing" constant="16" id="KMc-Vu-i90"/>
+                <constraint firstItem="wK0-1V-6JN" firstAttribute="centerY" secondItem="hxf-o1-8Il" secondAttribute="centerY" id="PUv-8g-ac8"/>
+                <constraint firstItem="iND-No-W6n" firstAttribute="leading" secondItem="VC0-zq-CFz" secondAttribute="leading" id="Rew-bl-taj"/>
+                <constraint firstItem="wK0-1V-6JN" firstAttribute="height" secondItem="hxf-o1-8Il" secondAttribute="height" id="ToL-Kp-l3f"/>
+                <constraint firstItem="hxf-o1-8Il" firstAttribute="leading" secondItem="wK0-1V-6JN" secondAttribute="trailing" constant="12" id="ahm-25-5Fa"/>
+                <constraint firstItem="hxf-o1-8Il" firstAttribute="centerY" secondItem="VC0-zq-CFz" secondAttribute="centerY" constant="-3" id="lSc-Fg-a22"/>
+                <constraint firstAttribute="trailing" secondItem="iND-No-W6n" secondAttribute="trailing" id="o9m-A0-ySm"/>
+                <constraint firstAttribute="bottom" secondItem="iND-No-W6n" secondAttribute="bottom" id="sXW-dY-ppx"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="orderPriceLabel" destination="ipc-KN-dLw" id="LZe-Yu-4Bd"/>
+                <outlet property="rightFirstButton" destination="hxf-o1-8Il" id="pHN-VX-Cdc"/>
+                <outlet property="rightSecondButton" destination="wK0-1V-6JN" id="Bad-8F-Jzi"/>
+            </connections>
+            <point key="canvasLocation" x="738.5" y="-34"/>
+        </view>
+    </objects>
+</document>

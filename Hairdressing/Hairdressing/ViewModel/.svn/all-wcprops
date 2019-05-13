@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dev_hairdressing_iPhone/!svn/ver/286/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel
+END
+LoginViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/285/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/LoginViewModel.m
+END
+YZMHairstylistListViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/dev_hairdressing_iPhone/!svn/ver/254/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMHairstylistListViewModel.m
+END
+YZMReserveViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/88/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMReserveViewModel.m
+END
+YZMPaintViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/86/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMPaintViewModel.m
+END
+YZMOrderDetailsViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/219/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMOrderDetailsViewModel.h
+END
+ForgotPasswordViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/dev_hairdressing_iPhone/!svn/ver/68/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/ForgotPasswordViewModel.h
+END
+YZMFixHairAreaViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/281/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMFixHairAreaViewModel.h
+END
+YZMHomepageViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dev_hairdressing_iPhone/!svn/ver/11/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMHomepageViewModel.h
+END
+YZMOrderDetailsViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/254/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMOrderDetailsViewModel.m
+END
+ForgotPasswordViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/286/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/ForgotPasswordViewModel.m
+END
+YZMFixHairAreaViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/281/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMFixHairAreaViewModel.m
+END
+YZMHomepageViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dev_hairdressing_iPhone/!svn/ver/11/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMHomepageViewModel.m
+END
+RegistViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/68/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/RegistViewModel.h
+END
+YZMTakePhotoViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/141/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMTakePhotoViewModel.h
+END
+MyTabBarViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/194/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/MyTabBarViewModel.h
+END
+RegistViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dev_hairdressing_iPhone/!svn/ver/286/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/RegistViewModel.m
+END
+YZMTakePhotoViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/141/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMTakePhotoViewModel.m
+END
+YZMAppraiseViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/266/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMAppraiseViewModel.h
+END
+MyTabBarViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dev_hairdressing_iPhone/!svn/ver/194/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/MyTabBarViewModel.m
+END
+YZMAppraiseViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/266/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMAppraiseViewModel.m
+END
+YZMChooseAreaViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/dev_hairdressing_iPhone/!svn/ver/146/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMChooseAreaViewModel.h
+END
+SettingViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dev_hairdressing_iPhone/!svn/ver/30/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/SettingViewModel.h
+END
+YZMChooseAreaViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/dev_hairdressing_iPhone/!svn/ver/146/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMChooseAreaViewModel.m
+END
+YZM3DChangeHairViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/67/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZM3DChangeHairViewModel.h
+END
+YZMMessageListViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/115/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMMessageListViewModel.h
+END
+YZMPSViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/161/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMPSViewModel.h
+END
+YZMTryHairViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/34/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMTryHairViewModel.h
+END
+SettingViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dev_hairdressing_iPhone/!svn/ver/30/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/SettingViewModel.m
+END
+YZM3DChangeHairViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/67/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZM3DChangeHairViewModel.m
+END
+YZMMessageListViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/148/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMMessageListViewModel.m
+END
+YZMTryHairViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/43/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMTryHairViewModel.m
+END
+YZMPSViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/161/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMPSViewModel.m
+END
+YZMConfirmOrderViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/220/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMConfirmOrderViewModel.h
+END
+YZMPayTypeSelectViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dev_hairdressing_iPhone/!svn/ver/207/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMPayTypeSelectViewModel.h
+END
+YZMSearchShopListViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dev_hairdressing_iPhone/!svn/ver/260/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMSearchShopListViewModel.h
+END
+YZMConfirmOrderViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/229/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMConfirmOrderViewModel.m
+END
+YZMPayTypeSelectViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dev_hairdressing_iPhone/!svn/ver/207/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMPayTypeSelectViewModel.m
+END
+YZMSearchShopListViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dev_hairdressing_iPhone/!svn/ver/260/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMSearchShopListViewModel.m
+END
+YZMMyCollectionViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dev_hairdressing_iPhone/!svn/ver/92/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMMyCollectionViewModel.h
+END
+YZMShopListViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/257/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMShopListViewModel.h
+END
+YZMMyCollectionViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dev_hairdressing_iPhone/!svn/ver/183/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMMyCollectionViewModel.m
+END
+YZMOrderListViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/219/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMOrderListViewModel.h
+END
+LoginViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dev_hairdressing_iPhone/!svn/ver/173/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/LoginViewModel.h
+END
+YZMShopListViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dev_hairdressing_iPhone/!svn/ver/258/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMShopListViewModel.m
+END
+YZMReserveViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dev_hairdressing_iPhone/!svn/ver/69/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMReserveViewModel.h
+END
+YZMPaintViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dev_hairdressing_iPhone/!svn/ver/77/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMPaintViewModel.h
+END
+YZMHairstylistListViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/dev_hairdressing_iPhone/!svn/ver/254/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMHairstylistListViewModel.h
+END
+YZMOrderListViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dev_hairdressing_iPhone/!svn/ver/254/trunk/Hairdressing/Hairdressing/Hairdressing/ViewModel/YZMOrderListViewModel.m
+END

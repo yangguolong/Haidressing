@@ -1,0 +1,97 @@
+//
+//  YZMOrderService.h
+//  Hairdressing
+//
+//  Created by yzm on 5/19/16.
+//  Copyright © 2016 Cloudream. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import "YZMAppraiseModel.h"
+
+typedef NS_ENUM(NSInteger,YZMOrderRequestType) {
+    YZMOrderRequestTypeAll = 0,      // 全部
+    YZMOrderRequestTypeUnpaid,       // 未付款
+    YZMOrderRequestTypePaid,          // 已付款
+    YZMOrderRequestTypeConsumed,      // 已消费
+    YZMOrderRequestTypeRefund      // 退款
+    
+};
+
+
+
+typedef NS_ENUM(NSInteger,YZMOrderPayType)  {
+    YZMOrderPayTypeAli = 1,     // 支付宝支付
+    YZMOrderPayTypeWeChat = 2,      // 微信支付
+};
+
+@protocol YZMOrderService <NSObject>
+
+
+/**
+ *  生成订单
+ *
+ *  @param payType
+ *
+ *  @return
+ */
+- (RACSignal *)placeOrderWithPayType:(YZMOrderPayType)payType;
+
+
+/**
+ *  获取订单列表
+ *
+ *  @param status
+ *
+ *  @return
+ */
+- (RACSignal *)getOrdersWithOrderrRequestType:(YZMOrderRequestType)type;
+
+
+/**
+ *  获取订单详情
+ *
+ *  @param orderno  订单标识
+ *
+ *  @return
+ */
+- (RACSignal *)getOrderInfoWithOrderStatus:(NSString *)orderno;
+
+/**
+ *  订单评价
+ *
+ *  @param model 订单评价model
+ *
+ *  @return 
+ */
+- (RACSignal *)commitAppraiseWithAppraiseModel:(YZMAppraiseModel *)model;
+
+/**
+ *  获取订单评价标签
+ *
+ *  @return 
+ */
+- (RACSignal *)getCommentLabel;
+
+<<<<<<< .mine
+/**
+ *  获取优惠券接口
+ *
+ *  @param corpId 优惠券试用的企业id
+ *  @param itemId 服务项目id
+ *  @param cityId 城市id
+ *  @param pNo    页码，从第1页开始
+ *  @param pSize  每页记录数
+ *
+ *  @return 
+ */
+- (RACSignal *)getCouponsWithcorpId:(NSString *)corpId itemId:(NSString *)itemId cityId:(NSString *)cityId pNo:(NSInteger)pNo pSize:(NSInteger)pSize;
+
+
++ (NSString *)StringfromOrderStatus:(YZMOrderStatus)orderStatus;
+=======
+>>>>>>> .r181
+
+
+@end

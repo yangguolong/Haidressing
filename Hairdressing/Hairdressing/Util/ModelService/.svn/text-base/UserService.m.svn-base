@@ -1,0 +1,16 @@
+//
+//  UserService.m
+//  Hairdressing
+//
+//  Created by BoDong on 16/3/29.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import "UserService.h"
+#import "User.h"
+@implementation UserService
+
+static User *mySelf = nil;
+
+
+@end

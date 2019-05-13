@@ -1,0 +1,19 @@
+//
+//  YZMChooseAreaViewModel.m
+//  Hairdressing
+//
+//  Created by cloudream on 16/5/13.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import "YZMChooseAreaViewModel.h"
+
+@implementation YZMChooseAreaViewModel
+
+-(void)initialize{
+    [super initialize];
+    
+}
+
+
+@end

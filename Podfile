@@ -1,0 +1,17 @@
+    pod 'FDStackView', '~> 1.0'
+    pod 'ReactiveCocoa’,’2.5’
+    pod 'MBProgressHUD', '~> 0.9.1'
+    pod 'SDWebImage', '~> 3.7.4’
+    pod 'MJExtension', '~> 3.0.10'
+    pod 'SSZipArchive', '~> 1.0.1'
+    pod 'FMDB', '~> 2.6'
+    pod 'AFNetworking', '~> 3.0.4'
+    pod 'GPUImage', '~> 0.1.7'
+    pod 'DZNEmptyDataSet', '~> 1.5.1'
+    pod 'SVPullToRefresh', '~> 0.4.1'
+    pod 'MJRefresh', '~> 3.1.0'
+    pod 'Masonry', '~> 0.6.4'
+    pod 'Reachability', '~> 3.2'
+    pod 'SSZipArchive', '~> 1.0.1'
+    pod 'UITableView+FDTemplateLayoutCell', '~> 1.5.beta'
+    pod 'UMengAnalytics-NO-IDFA'

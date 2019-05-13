@@ -1,0 +1,144 @@
+10
+
+dir
+286
+http://licq@192.168.1.241/svn/dev_hairdressing_iPhone/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers
+http://licq@192.168.1.241/svn/dev_hairdressing_iPhone
+
+
+
+2016-04-14T01:51:52.195027Z
+85
+licq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+89b6f9ba-a5cb-1f4b-aa48-a2a8e9f8ce34
+
+opencv.hpp
+file
+
+
+
+
+2016-04-14T01:44:49.000000Z
+b95a14362af6e6f0f48b9e5e75d20517
+2016-04-14T01:51:52.195027Z
+85
+licq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2751
+
+videostab
+dir
+
+highgui
+dir
+
+world
+dir
+
+core
+dir
+
+photo
+dir
+
+stitching
+dir
+
+nonfree
+dir
+
+flann
+dir
+
+imgproc
+dir
+
+contrib
+dir
+
+calib3d
+dir
+
+objdetect
+dir
+
+legacy
+dir
+
+features2d
+dir
+
+video
+dir
+
+opencv_modules.hpp
+file
+
+
+
+
+2016-04-14T01:44:49.000000Z
+a2d030d685eebc28383a207ac1077610
+2016-04-14T01:51:52.195027Z
+85
+licq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+598
+
+ml
+dir
+

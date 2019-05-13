@@ -1,0 +1,15 @@
+//
+//  TryHairServiceImpl.h
+//  Hairdressing
+//
+//  Created by BoDong on 16/4/5.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import "TryHairService.h"
+#import "BaseServiceImpl.h"
+#define CachePath [NSSearchPathForDirectoriesInDomains(NSCachesDirectory, NSUserDomainMask, YES) lastObject]
+@interface TryHairServiceImpl : BaseServiceImpl<TryHairService>
+
+@end

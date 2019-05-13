@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core
+END
+core_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/core_c.h
+END
+gpumat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/gpumat.hpp
+END
+devmem2d.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/devmem2d.hpp
+END
+opengl_interop_deprecated.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/opengl_interop_deprecated.hpp
+END
+types_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/types_c.h
+END
+wimage.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/wimage.hpp
+END
+internal.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/internal.hpp
+END
+mat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/mat.hpp
+END
+operations.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/operations.hpp
+END
+cuda_devptrs.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/cuda_devptrs.hpp
+END
+opengl_interop.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/opengl_interop.hpp
+END
+version.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/version.hpp
+END
+eigen.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/eigen.hpp
+END
+core.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/core.hpp
+END
+affine.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/dev_hairdressing_iPhone/!svn/ver/85/trunk/Hairdressing/Hairdressing/Hairdressing/HairEngine/opencv2.framework/Versions/A/Headers/core/affine.hpp
+END

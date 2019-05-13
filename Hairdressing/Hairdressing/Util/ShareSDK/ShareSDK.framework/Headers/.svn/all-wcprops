@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers
+END
+SSDKGooglePlusControllerStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/SSDKGooglePlusControllerStyle.h
+END
+ISSDKAuthView.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/ISSDKAuthView.h
+END
+SSDKContentEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/SSDKContentEntity.h
+END
+SSDKData.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/SSDKData.h
+END
+SSDKCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/SSDKCredential.h
+END
+SSDKAuthViewStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/SSDKAuthViewStyle.h
+END
+SSDKUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/SSDKUser.h
+END
+NSMutableDictionary+SSDKShare.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/NSMutableDictionary+SSDKShare.h
+END
+NSMutableDictionary+SSDKInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/NSMutableDictionary+SSDKInit.h
+END
+ShareSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/ShareSDK.h
+END
+SSDKFriendsPaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/SSDKFriendsPaging.h
+END
+SSDKSMSViewControllerStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/SSDKSMSViewControllerStyle.h
+END
+SSDKImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/SSDKImage.h
+END
+SSDKPlatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/SSDKPlatform.h
+END
+ShareSDK+Base.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/ShareSDK+Base.h
+END
+SSDKUserQueryConditional.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/SSDKUserQueryConditional.h
+END
+SSDKTypeDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/SSDKTypeDefine.h
+END
+SSDKMailViewControllerStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/dev_hairdressing_iPhone/!svn/ver/256/trunk/Hairdressing/Hairdressing/Hairdressing/Util/ShareSDK/ShareSDK.framework/Headers/SSDKMailViewControllerStyle.h
+END

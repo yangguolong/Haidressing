@@ -1,0 +1,13 @@
+//
+//  YZMTryCollectionViewCell.m
+//  Hairdressing
+//
+//  Created by cloudream on 16/3/31.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import "YZMTryCollectionViewCell.h"
+
+@implementation YZMTryCollectionViewCell
+
+@end

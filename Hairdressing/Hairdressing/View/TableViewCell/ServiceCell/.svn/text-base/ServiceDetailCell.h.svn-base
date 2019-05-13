@@ -1,0 +1,17 @@
+//
+//  ServiceDetailCell.h
+//  Hairdressing
+//
+//  Created by BoDong on 16/4/18.
+//  Copyright © 2016年 Cloudream. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "MRCReactiveView.h"
+@interface ServiceDetailCell : UITableViewCell<MRCReactiveView>
+
+
+//@property(nonatomic,strong)UILabel *serviceDetailLab;
+@property (weak, nonatomic) IBOutlet UILabel *serviceDetailLab;
++ (CGFloat)heightOfCell;
+@end
